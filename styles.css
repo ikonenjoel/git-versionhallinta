@@ -13,6 +13,7 @@ body {
 main {
   text-align: center;
 }
+<<<<<<< HEAD
 
 button {
   background-color: blue;
@@ -23,11 +24,14 @@ button {
 }
 
 
+=======
+>>>>>>> b682694d86e274893d4678bbbb5705f5effb640d
 #datetime {
   background-color: white;
   width: 300px;
   margin: auto;
   border: 1px solid grey;
+<<<<<<< HEAD
 }
 
 
@@ -35,4 +39,6 @@ body {
   background-color: #ffffff;
   opacity: 1;
   background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 40px ), repeating-linear-gradient( #FAF0E655, #FAF0E6 );
+=======
+>>>>>>> b682694d86e274893d4678bbbb5705f5effb640d
 }
